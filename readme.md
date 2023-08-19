@@ -1,4 +1,7 @@
 # Tutorial
+Got a 'Access-Control-Allow-Origin is not allowed' due to CORS policy error?
+Take a look at this readme.
+
 ### How to enable CORS on an Express JS application, the quick way.
 When making an Express JS app, i found a heavy roadblock whenever i tried to learn how to connect my frontend to my expressjs app, after testing succesfully from Postman, losing a lot of time.
 
