@@ -1,6 +1,6 @@
 # Tutorial
 ### How to enable CORS on an Express JS application, the quick way.
-When making an Express JS app, i found a heavy roadblock whenever i tried to learn how to connect my frontend to my expressjs app, after testing succesfully from Postman, losing a loot of time.
+When making an Express JS app, i found a heavy roadblock whenever i tried to learn how to connect my frontend to my expressjs app, after testing succesfully from Postman, losing a lot of time.
 
 So, here is a quick reference to all new backend developers learners out there. Is not the best way but is a quick one to overcome the frustration of CORS policy errors.
 
