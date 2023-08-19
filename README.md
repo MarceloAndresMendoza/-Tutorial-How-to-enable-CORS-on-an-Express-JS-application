@@ -1,4 +1,3 @@
-```markdown
 # WebDev Quickfix
 
 Welcome to WebDev Quickfix! Here you will find quick and easy solutions to common,yet time-consuming problems that new developers often face when learning web development.
