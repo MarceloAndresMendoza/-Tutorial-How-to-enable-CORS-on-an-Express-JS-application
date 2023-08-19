@@ -20,3 +20,6 @@ Each problem is separated into its own section, complete with a detailed explana
 
 1. [CORS (Cross-Origin Resource Sharing)](./Enable-CORS-on-Express-JS.md):
    Learn how to troubleshoot CORS-related issues in an Express.js application.
+
+## Contribution
+If you want to contribute, you are totally welcome!
