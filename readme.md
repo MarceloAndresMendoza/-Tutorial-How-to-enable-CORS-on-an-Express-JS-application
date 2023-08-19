@@ -1,8 +1,8 @@
 # Tutorial
 Got this error? 
-```
-Access to XMLHttpRequest at 'http://target-domain.com' from origin 'http://your-domain.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
-```
+
+_Access to XMLHttpRequest at 'http://target-domain.com' from origin 'http://your-domain.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource._
+
 Take a look at this readme.
 
 ### How to enable CORS on an Express JS application, the quick way.
