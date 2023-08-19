@@ -50,10 +50,11 @@ const corsOptions={
 }
 // Remember to add your local development server port
 
-app.use(express.json());
-app.use(express.urlencoded({ extended: true }));
+app.use(express.json()); // Common used middleware
+app.use(express.urlencoded({ extended: true })); // Common used middleware
 app.use(cors(corsOptions)); 
 // You can omit corsOptions and put nothing (Not recommended)
+// ... rest of your code ...
 ```
 
 And that's all. 
